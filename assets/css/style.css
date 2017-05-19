@@ -82,6 +82,7 @@ body{
 	font-size: 1em;
 	margin: 10px 0;
 }
+
 /*Sección About*/
 #about{
 	background: url("../img/fondo-about.jpg");
@@ -100,7 +101,8 @@ body{
 	line-height: 5rem;
 	text-transform: uppercase;
 }
-.te-diferentes{
+
+/**/.te-diferentes{
 	color: white;
 	padding: 30px;
 	width: 60%;
