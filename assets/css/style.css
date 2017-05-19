@@ -102,7 +102,9 @@ body{
 	text-transform: uppercase;
 }
 
-/**/.te-diferentes{
+/*Tipos de té*/
+
+.te-diferentes{
 	color: white;
 	padding: 30px;
 	width: 60%;
@@ -117,6 +119,7 @@ body{
 	font-size: 1.5em;
 }
 
+/*Disfruta*/
 #disfruta{
 	background: url("../img/disfruta.jpg");
 	background-size: cover;
