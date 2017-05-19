@@ -6,6 +6,8 @@ body{
 	margin: 0;
 	font-family: 'Raleway', sans-serif;
 }
+/*Sección Bienvenida*/
+
 #bienvenida {
 	background: url("../img/fondo-bienvenida.jpg");
 	background-size: cover;
@@ -22,7 +24,7 @@ body{
 	text-align: center;
 }
 
-.color {
+/*.color {
 	background-color: #8EC641;
 	margin: 2px;
 }
